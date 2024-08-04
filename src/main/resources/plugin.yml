@@ -1,0 +1,4 @@
+name: InfGen
+version: '1.0-SNAPSHOT'
+main: me.infnoxx.infGen.InfGen
+api-version: '1.21'
